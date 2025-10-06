@@ -198,7 +198,7 @@ export default function Hero() {
           animate={{ opacity: 1, y: 0 }}
           transition={{ duration: 0.8, delay: 0.6 }}
         >
-          <Button href="#" className="primary" whileHover={{ scale: 1.05 }} whileTap={{ scale: 0.95 }}>
+          <Button href="https://four.meme/token/0xc2fbf91c9c3133d4ebaa1056b53304ce42cd4444" className="primary" whileHover={{ scale: 1.05 }} whileTap={{ scale: 0.95 }}>
             Buy on Four.meme
           </Button>
           <Button href="#about" className="secondary" whileHover={{ scale: 1.05 }} whileTap={{ scale: 0.95 }}>
